@@ -17,12 +17,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkarthik&show_icons=true&theme=radical)
-
----
-
 ### 📫 Reach Me
 
 - Email: [nikhilkarthik1avvss@gmail.com](mailto:nikhilkarthik1avvss@gmail.com)
