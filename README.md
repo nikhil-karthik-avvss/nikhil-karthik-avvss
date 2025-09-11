@@ -19,7 +19,7 @@
 
 ### 📫 Reach Me
 
-- Email: [nikhilkarthik1avvss@gmail.com](mailto:nikhilkarthik1avvss@gmail.com)
+- Email: [nikhilkarthik1avvss@gmail.com](mailto:nikhilkarthik1avvss@gmail.com), [nikhilkarthik2370024@ssn.edu.in](mailto:nikhilkarthik2370024@ssn.edu.in)
 - LinkedIn: [linkedin.com/in/nikhil-karthik-avvss](https://linkedin.com/in/nikhil-karthik-avvss)
 
 ---
